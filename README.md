@@ -1,5 +1,3 @@
-Certainly! Below is a template for a README file for your project. You can customize it further to include any specific details about your project:
-
 ```markdown
 # TikTok Downloader
 
