@@ -1,0 +1,60 @@
+# Node (Frontend)
+node_modules/
+dist/
+*.log
+*.cache
+.DS_Store
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Vite
+.vite/
+vite.config.js
+
+# TypeScript
+*.tsbuildinfo
+
+# Python (Backend)
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual Environment
+venv/
+.env/
+
+# Flask
+instance/
+.webassets-cache
+
+# Database
+*.sqlite
+*.db
+
+# Testing
+.coverage
+htmlcov/
+*.egg-info/
+*.egg
+.cache
+
+# MacOS
+.DS_Store
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+req.txt
